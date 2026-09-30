@@ -1,0 +1,6 @@
+{
+  "name": "AI College Bus Delay Prediction & Tracking System",
+  "description": "Full-stack AI-powered college transit platform with real-time bus tracking, machine learning delay forecasting, role-based portals for students, drivers, and fleet admins, and Java Spring Boot MySQL architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
